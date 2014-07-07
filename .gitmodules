@@ -1,3 +1,9 @@
 [submodule "permutateLexicographically"]
 	path = permutateLexicographically
 	url = https://github.com/volkovasystems/permutateLexicographically.git
+[submodule "execute-command"]
+	path = execute-command
+	url = git@github.com:volkovasystems/execute-command.git
+[submodule "compile-command"]
+	path = compile-command
+	url = git@github.com:volkovasystems/compile-command.git
