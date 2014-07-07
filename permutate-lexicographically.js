@@ -22,5 +22,4 @@ var permutateLexicographically = function permutateLexicographically( startingIn
 
 };
 
-var work = require( "./work/work.js" );
-module.exports = permutateLexicographically;
+( module || { } ).exports = permutateLexicographically;
